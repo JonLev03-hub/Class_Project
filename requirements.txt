@@ -86,8 +86,6 @@ pyrsistent==0.17.3
 PyScreeze==0.1.28
 python-dateutil==2.8.1
 pytweening==1.0.4
-pywin32==300
-pywinpty==0.5.7
 PyYAML==6.0
 pyzmq==22.0.3
 qtconsole==5.0.3
